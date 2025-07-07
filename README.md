@@ -22,9 +22,6 @@ Sempre buscando evoluir como dev e designer, conectando tecnologia e experiênci
 - Portfólio: [lianacapizani-github-io.vercel.app](https://lianacapizani-github-io.vercel.app/)
 - LinkedIn: [linkedin.com/in/lianakarlacapizani](https://www.linkedin.com/in/lianakarlacapizani/)
 
-### 🤝 Vamos nos conectar?
-[Portfólio](https://lianacapizani-github-io.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/lianakarlacapizani/)
-
 ---
 
 ### ⚙️ Tecnologias
